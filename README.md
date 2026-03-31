@@ -30,7 +30,7 @@ Explore the live demo of Gemini AI: [https://geminichatai.netlify.app/](https://
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/shuvra-matrix/Gemini-Ai--MERN.git
+   git clone https://github.com/gourav-1711/Gemini-AI-ChatBot---MERN.git
    ```
 
 2. Navigate to the server folder:
@@ -47,7 +47,7 @@ Explore the live demo of Gemini AI: [https://geminichatai.netlify.app/](https://
 
 4. Set up environment variables in a `.env` file:
 
-   ```
+   ```bash
    MONGO_USER=mongodb_username
    MONGO_PASS=mongodb_password
    GEMINI_API_KEY=gemini_api_key
@@ -88,7 +88,7 @@ Explore the live demo of Gemini AI: [https://geminichatai.netlify.app/](https://
 
 3. Set up client-side environment variables in a `.env` file:
 
-   ```
+   ```bash
    REACT_APP_GEMINI_KEY=user_generated_key)
    REACT_APP_GOOGLE_CLIENT_ID=google_oauth_client_id
    REACT_APP_GOOGLE_CLIENT_SECRET=google_oauth_client_secret
@@ -125,20 +125,20 @@ Gemini AI Web App employs location tracking features for enhanced user experienc
    - API Endpoint: [https://geocode.maps.co/](https://geocode.maps.co/)
    - The app uses this API to convert latitude and longitude coordinates into an accurate user location.
 
-Please note that the use of location data is subject to our [Privacy Policy](https://github.com/shuvra-matrix/Gemini-Ai--MERN/blob/main/PRIVACY-POLICY.md), and user consent is prioritized. The obtained location information is solely used to enhance user experience within the Gemini AI Web App. We do not share this information with third parties.
+Please note that the use of location data is subject to our [Privacy Policy](https://github.com/gourav-1711/Gemini-AI-ChatBot---MERN/blob/main/PRIVACY-POLICY.md), and user consent is prioritized. The obtained location information is solely used to enhance user experience within the Gemini AI Web App. We do not share this information with third parties.
 
 If you have any concerns or questions regarding the use of location tracking in Gemini AI Web App, please contact us at [shuvrachakrabarty97@gmail.com](shuvrachakrabarty97@gmail.com).
 
 ## Issues and Contributions
 
-Report issues or contribute to the project on [GitHub](https://github.com/shuvra-matrix/Gemini-Ai--MERN).
+Report issues or contribute to the project on [GitHub](https://github.com/gourav-1711/Gemini-AI-ChatBot---MERN).
 
 ## Privacy Policy
 
-Read our [Privacy Policy](https://github.com/shuvra-matrix/Gemini-Ai--MERN/blob/main/PRIVACY-POLICY.md) before using Gemini AI. Your use of this web app is subject to our privacy terms.
+Read our [Privacy Policy](https://github.com/gourav-1711/Gemini-AI-ChatBot---MERN/blob/main/PRIVACY-POLICY.md) before using Gemini AI. Your use of this web app is subject to our privacy terms.
 
 ## Disclaimer
 
-Read the [Disclaimer](https://github.com/shuvra-matrix/Gemini-Ai--MERN/blob/main/DISCLAIMER.md) before using Gemini AI. Use of this web app implies acceptance of the terms stated in the disclaimer.
+Read the [Disclaimer](https://github.com/gourav-1711/Gemini-AI-ChatBot---MERN/blob/main/DISCLAIMER.md) before using Gemini AI. Use of this web app implies acceptance of the terms stated in the disclaimer.
 
 Enjoy chatting with Gemini AI! 🚀
