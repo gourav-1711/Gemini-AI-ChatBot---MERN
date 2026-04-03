@@ -15,7 +15,12 @@ app.use(requestIp.mw());
 const originUrl = process.env.CLIENT_REDIRECT_URL;
 
 const crosOption = {
-  origin: originUrl,
+  origin: [
+    originUrl,
+    "https://gemini-ai-chat-bot-mern.vercel.app",
+    "http://localhost:3000",
+    "http://localhost:3030"
+  ],
   optionsSuccessStatus: 200,
   credentials: true,
 };

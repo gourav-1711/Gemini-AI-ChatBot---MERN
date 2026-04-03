@@ -19,6 +19,12 @@ const InputSection = () => {
 
   const onSubmitHandler = (e) => {
     e.preventDefault();
+
+    // Prevent empty message submission
+    if (!userInput.trim()) {
+      return;
+    }
+
     dispatch(
       sendChatData({
         user: userInput,
@@ -26,7 +32,7 @@ const InputSection = () => {
         isLoader: "yes",
         previousChat,
         chatHistoryId,
-      })
+      }),
     );
     setUserInput("");
     navigate("/app");

@@ -19,7 +19,7 @@ Gemini AI Web App is a Google Gemini clone, providing users with a seamless chat
 
 ## Live Demo
 
-Explore the live demo of Gemini AI: [https://geminichatai.netlify.app/](https://geminichatai.netlify.app/)
+Explore the live demo of Gemini AI: [https://gemini-ai-chat-bot-mern.vercel.app/app/](https://gemini-ai-chat-bot-mern.vercel.app/app/)
 
 ![Demo Screenshot](https://res.cloudinary.com/dqone7ala/image/upload/v1710036366/Screenshot_2024-03-10_073520_wkcnwj.png)
 
